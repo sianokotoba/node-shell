@@ -1,0 +1,26 @@
+{
+  "name": "custom-bash",
+  "version": "1.0.0",
+  "description": "Custom bash based on node for Fullstack Academy by John and Sophia",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sianokotoba/node-shell.git"
+  },
+  "keywords": [
+    "custom",
+    "bash"
+  ],
+  "author": "John Fiorilla and Sophia Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sianokotoba/node-shell/issues"
+  },
+  "homepage": "https://github.com/sianokotoba/node-shell#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
